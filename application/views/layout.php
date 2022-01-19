@@ -47,6 +47,7 @@ defined('BASEPATH') OR exit('No direct script access allowed'); ?>
         <nav class="navbar navbar-default bootsnav">
             <div class="container"> 
                 <!-- Start Header Navigation -->
+                <!--header2 navigation -->
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                         <i class="fa fa-bars"></i>
